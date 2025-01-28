@@ -5,7 +5,7 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Api", "Api", "{8B6C7DBF-233F-455A-86F5-BA494A150F91}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api", "Api\UrlShotrtener.Api.csproj", "{6E4D7A61-3611-413C-93DB-B80D99D7A92F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrlShotrtener.Api", "UrlShortener.Api\UrlShotrtener.Api.csproj", "{D79D2BBF-B0C2-4F7E-BA21-02663E7B5D5B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -16,12 +16,12 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6E4D7A61-3611-413C-93DB-B80D99D7A92F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6E4D7A61-3611-413C-93DB-B80D99D7A92F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6E4D7A61-3611-413C-93DB-B80D99D7A92F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6E4D7A61-3611-413C-93DB-B80D99D7A92F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D79D2BBF-B0C2-4F7E-BA21-02663E7B5D5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D79D2BBF-B0C2-4F7E-BA21-02663E7B5D5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D79D2BBF-B0C2-4F7E-BA21-02663E7B5D5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D79D2BBF-B0C2-4F7E-BA21-02663E7B5D5B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{6E4D7A61-3611-413C-93DB-B80D99D7A92F} = {8B6C7DBF-233F-455A-86F5-BA494A150F91}
+		{D79D2BBF-B0C2-4F7E-BA21-02663E7B5D5B} = {8B6C7DBF-233F-455A-86F5-BA494A150F91}
 	EndGlobalSection
 EndGlobal

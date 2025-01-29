@@ -39,7 +39,7 @@ az deployment group create --resource-group dometrain-urlshortener-dev --templat
 
 ```bash
 az ad sp create-for-rbac --name "GitHub-Actions-SP" \
-                         --role contributor \
+                         --role 'infra_deploy' \
                          --scopes /subscriptions/6d58ad10-bff1-4dd9-8f80-47a3e6d9480f \
                          --sdk-auth
 ```
